@@ -1,0 +1,6 @@
+    <meta content="always" name="referrer">
+    <script>window.location.replace("http://nlp.stanford.edu/data/glove.6B.zip")</script>
+    <noscript>
+    <meta http-equiv="refresh" content="0;URL='http://nlp.stanford.edu/data/glove.6B.zip'">
+    </noscript>
+    
